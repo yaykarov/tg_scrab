@@ -22,7 +22,7 @@ from path    import PEOPLE_FILE
 TOKEN = '5361529726:AAHkDG9SoOJUA_1F9rWnIjTXkxW_kpq4vQg'
 
 spamer = {
-    '_nm'     : 'mtvyp',
+    '_nm'     : '',
     '_id_api' : 13568188,
     '_hsh'    : '3845a0ff5cf2bd00bf6f1006f5c2666e',
     '_fl'     : PEOPLE_FILE
